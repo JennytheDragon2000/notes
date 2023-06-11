@@ -59,6 +59,11 @@
 			- when I switch to another branch head will move
 			- ![[Pasted image 20230609180411.png]]
 			- ![[Pasted image 20230609180437.png]]
+			- ![[Pasted image 20230611154041.png]]
+			- inside refs folder there's files for each branch inside those files there are commit hashes
+			- ![[Pasted image 20230611155019.png]]
+			- ![[Pasted image 20230611155140.png]]
+			- 
 		- what happens when you do branching?
 			- ![[Pasted image 20230611144032.png]]
 			- you create a branch called dark mode 
@@ -77,6 +82,44 @@
 			- ![[Pasted image 20230611145248.png]]
 			- ![[Pasted image 20230611145307.png]]
 			- ![[Pasted image 20230611145326.png]]
+			- ![[Pasted image 20230611150409.png]]
+			- ![[Pasted image 20230611150433.png]]
+			- ![[Pasted image 20230611150444.png]]
+			- ![[Pasted image 20230611150508.png]]
+			- ![[Pasted image 20230611150513.png]]
+			- ![[Pasted image 20230611150528.png]]
+		- How to switch the branches ?
+			- swtich
+				- ![[Pasted image 20230611150603.png]]
+				- ![[Pasted image 20230611151032.png]]
+				- ![[Pasted image 20230611150632.png]]
+				- ![[Pasted image 20230611150639.png]]
+				- ![[Pasted image 20230611150649.png]]
+				- ![[Pasted image 20230611150849.png]]
+				- ![[Pasted image 20230611150921.png]]
+				- ![[Pasted image 20230611151019.png]]
+				- ![[Pasted image 20230611151032.png]]
+			- checkout
+				- ![[Pasted image 20230611152007.png]]
+			- Create and switch at once 
+				- ![[Pasted image 20230611152052.png]]
+				- ![[Pasted image 20230611152115.png]]
+			- change branches without commiting 
+				- ![[Pasted image 20230611152511.png]]
+				- if u create a new file and switch branches without commiting that file will come with u to what ever branch u go. 
+		- Delete branch
+			- ![[Pasted image 20230611153231.png]]
+			- u can't delete the branch that you are currently on 
+			- ![[Pasted image 20230611153309.png]]
+			- don't allow us to delete without merging. we have to use -D
+			- ![[Pasted image 20230611153415.png]]
+		- Rename branch
+			- change to the branch that we want to rename
+			- ![[Pasted image 20230611153602.png]]
+			- ![[Pasted image 20230611153614.png]]
+			- ![[Pasted image 20230611153644.png]]
+			- how head works
+			- ![[Pasted image 20230611153625.png]]
 			- 
 ## GitHub
 -  Configuring ssh

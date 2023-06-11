@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04f9c268e872a979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git & GitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d5b398cfcc3056e4",
             "type": "leaf",
             "state": {
@@ -166,20 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "579dafdc9b04a2ae",
+  "active": "d5b398cfcc3056e4",
   "lastOpenFiles": [
+    "attach/Pasted image 20230611155140.png",
+    "attach/Pasted image 20230611155019.png",
+    "attach/Pasted image 20230611154041.png",
+    "attach/Pasted image 20230611153644.png",
+    "attach/Pasted image 20230611153625.png",
+    "attach/Pasted image 20230611153614.png",
+    "attach/Pasted image 20230611153602.png",
+    "attach/Pasted image 20230611153415.png",
+    "attach/Pasted image 20230611153309.png",
+    "attach/Pasted image 20230611153231.png",
+    "attach/Pasted image 20230611152511.png",
     "JOBS.md",
     "Git & GitHub.md",
-    "attach/Pasted image 20230611145326.png",
-    "attach/Pasted image 20230611145307.png",
-    "attach/Pasted image 20230611145248.png",
-    "attach/Pasted image 20230611144707.png",
-    "attach/Pasted image 20230611144528.png",
-    "attach/Pasted image 20230611144444.png",
-    "attach/Pasted image 20230611144344.png",
-    "attach/Pasted image 20230611144318.png",
-    "attach/Pasted image 20230611144233.png",
-    "attach/Pasted image 20230611144054.png",
     "React.md",
     "loku aiya.md",
     "Big O Notation.md",
