@@ -4,6 +4,12 @@
 	-   Spark, Hadoop, Docker is a big plus.
 	-   Jenkins, Git, machine learning algorithms, statistics, distributed/parallel systems.
 	-   cloud (AWS,GCP,Azure).
+
+- codify
+	- ![[Pasted image 20230614071210.png]]
+	- 
+
+
 - RootCode
 - Axiata Digital Labs
 - WSO2

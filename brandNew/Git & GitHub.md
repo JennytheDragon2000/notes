@@ -120,7 +120,24 @@
 			- ![[Pasted image 20230611153644.png]]
 			- how head works
 			- ![[Pasted image 20230611153625.png]]
-			- 
+		- Meging branches 
+			- ![[Pasted image 20230611170124.png]]
+			- ![[Pasted image 20230611170651.png]]
+			- ![[Pasted image 20230611170712.png]]
+			- ![[Pasted image 20230611170826.png]]
+			- ![[Pasted image 20230611170930.png]] 
+			- ![[Pasted image 20230611170833.png]]
+			- ![[Pasted image 20230611171052.png]]
+			- ![[Pasted image 20230611171110.png]]
+			- ![[Pasted image 20230611171119.png]]
+			- fast forward merch
+				- ![[Pasted image 20230611174114.png]]
+				- ![[Pasted image 20230611174139.png]]
+				- we have more commits now in the master branch
+				- ![[Pasted image 20230611174214.png]]
+				- but it doesn't delete the oldies branch
+				- ![[Pasted image 20230611174231.png]]
+				- 
 ## GitHub
 -  Configuring ssh
 	- https://docs.github.com/en/authentication/connecting-to-github-with-ssh
