@@ -20,4 +20,38 @@
 - divs are only there to structure and divide your content.
 - if we referesh the site again, all the changes that we made will dissapear.
 - ![[Pasted image 20230618104434.png]]
-- 
+- div is a content division element. it allows us to divide the content into different containers/boxes.
+- - ![[Pasted image 20230618104854.png]]
+- if we move our `h1` and `p` elements inside into div. now it gets a height.
+- ![[Pasted image 20230618104929.png]]
+- Now we are going to give a color to `div` . so goto [[colorhunt]] and choose a color.
+- ![[Pasted image 20230618105701.png]]
+- ![[Pasted image 20230618105717.png]]
+- where the is these gaps ?
+- ![[Pasted image 20230618105842.png]]
+- it's because browser also add some default css into it.
+- ![[Pasted image 20230618110106.png]]
+- if we double click on that margin and change it. it will get rid from that browser
+   default css
+- ![[Pasted image 20230618110324.png]]
+- ![[Pasted image 20230618110413.png]]
+- let's change the top margin also
+- ![[Pasted image 20230618110528.png]]
+- but it didn't get rid from that top layer. why is that?
+- it's because there are default rules for our `h1` also.
+- ![[Pasted image 20230618110811.png]]
+- as u can see there is a margin for h1 also.
+- ![[Pasted image 20230618110903.png]]
+- when we hover over `h1` it shows the entire space that it is taking up
+- ![[Pasted image 20230618111153.png]]
+- these margins meaning like above
+- if we go and change that top margin to 0. now it gets rid from that upper broundry
+- ![[Pasted image 20230618111351.png]]
+- when we change those. you can see what it changes inside the browser.
+- ![[Pasted image 20230618111555.png]]
+- this is the one we should put inside our css file inorder to make this change permenent.
+- ![[Pasted image 20230618111656.png]]
+- ![[Pasted image 20230618111748.png]]
+- after we write these changes to css file even after we refresh the browser it stays the same.
+- if we use `margin` to change it change all 4 margins.
+-  These margin, padding, border are all relevent to [[css-box-model]]
