@@ -1,0 +1,23 @@
+- div tags doesn't do anything without css
+- ![[Pasted image 20230618102808.png]]
+- Right-click on it and try to inspect
+- ![[Pasted image 20230618103030.png]]
+- ![[Pasted image 20230618102258.png]]
+- in order to something with that div we have to use  css with it .
+- ![[Pasted image 20230618103507.png]]
+- after turning off the [[Pesticide-addon]]  we can get the actual html.
+- ![[Pasted image 20230618103556.png]]
+- ![[Pasted image 20230618102515.png]]
+- anything goes inside goes here wouldn't modify our code. but it helps us to experiment with our html without coding.
+- now lets experiment with it.
+- ![[Pasted image 20230618103701.png]]
+- here even though we change the background color of div. it didn't change the color.
+- why it happened?
+- it is because, currently it doesn't have any height.
+- ![[Pasted image 20230618103912.png]]
+- But after we give `100px` height to it. it did change
+- ![[Pasted image 20230618104037.png]]
+- divs are only there to structure and divide your content.
+- if we referesh the site again, all the changes that we made will dissapear.
+- ![[Pasted image 20230618104434.png]]
+- 

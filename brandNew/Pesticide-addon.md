@@ -1,0 +1,3 @@
+- this addon helps us to view html elements to debug
+- by holding `ctrl` key and hovering over elements we can get what type of element it is and what are the classes.
+- 

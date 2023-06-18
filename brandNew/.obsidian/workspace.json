@@ -4,66 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "82ad885d3648b923",
+        "id": "b715d2ea30c4a146",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b398cfcc3056e4",
+            "id": "1cd75e603c340df0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fe3ff3cb922f525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev.md",
+                "file": "div.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2b15e8ea35a10cf",
+            "id": "ac62505c33997817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "display-flex.md",
+                "file": "Pesticide-addon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04c9990a56e5e87d",
+            "id": "865adf22b2dbadb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "margin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d4eabda5ab614e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "box-sizing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c13c807459ccbec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "get-font.md",
-                "mode": "source",
-                "source": false
+                "file": "attach/Pasted image 20230618102258.png"
               }
             }
           }
@@ -126,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1066759e9a36b954",
@@ -142,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "display-flex.md",
+                "file": "div.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "display-flex.md",
+                "file": "div.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "display-flex.md"
+                "file": "div.md"
               }
             }
           }
@@ -203,30 +186,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2b15e8ea35a10cf",
+  "active": "8fe3ff3cb922f525",
   "lastOpenFiles": [
-    "attach/Pasted image 20230615132757.png",
-    "attach/Pasted image 20230615132718.png",
-    "attach/Pasted image 20230615132630.png",
-    "attach/Pasted image 20230615132454.png",
-    "attach/Pasted image 20230615132409.png",
-    "attach/Pasted image 20230615132315.png",
-    "attach/Pasted image 20230615132252.png",
-    "attach/Pasted image 20230615132217.png",
+    "attach/Pasted image 20230618104434.png",
+    "Pesticide-addon.md",
+    "div.md",
+    "attach/Pasted image 20230618104037.png",
+    "attach/Pasted image 20230618103912.png",
+    "attach/Pasted image 20230618103701.png",
+    "attach/Pasted image 20230618103556.png",
+    "attach/Pasted image 20230618103507.png",
+    "attach/Pasted image 20230618103030.png",
+    "attach/Pasted image 20230618102808.png",
+    "attach/Pasted image 20230618102515.png",
+    "attach/Pasted image 20230618102258.png",
+    "Snippets.md",
+    "Ultisnip.md",
+    "favicon.md",
+    "attach/Pasted image 20230617214456.png",
+    "Git & GitHub.md",
+    "React.md",
     "Webdev.md",
-    "display-flex.md",
-    "margin.md",
-    "attach/Pasted image 20230615132022.png",
-    "attach/Pasted image 20230615131927.png",
+    "emmet.md",
     "box-sizing.md",
-    "attach/Pasted image 20230615131717.png",
+    "margin.md",
+    "display-flex.md",
     "get-font.md",
+    "Alias-for-app-image.md",
     "attach/HowtoImportGoogleFontsintoYourWebsite_PDF_2023-06-15074258.968018.pdf",
     "live server.md",
     "JOBS.md",
     "devops.md",
-    "Git & GitHub.md",
-    "React.md",
     "loku aiya.md",
     "Big O Notation.md",
     "attach",

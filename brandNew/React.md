@@ -16,7 +16,7 @@
 	- we can use whatever tool for other things.
 ![[Pasted image 20230522085012.png]]
 
-we use ReactDOM to render this component tree inside an element with the id 'root'
+we use ReactDOM to render this component tree inside an element with the id `'root'`
 ![[Pasted image 20230522085026.png]]
 we use ReactNative render this in mobile applications
 ![[Pasted image 20230522104838.png]]
