@@ -1,0 +1,25 @@
+- ![[Pasted image 20230620092053.png]]
+- ![[Pasted image 20230620092145.png]]
+- ![[Pasted image 20230620092157.png]]
+- ![[Pasted image 20230620092247.png]]
+- ![[Pasted image 20230620092915.png]]
+- ![[Pasted image 20230620092950.png]]
+- ![[Pasted image 20230620093010.png]]
+- ![[Pasted image 20230620093025.png]]
+- ![[Pasted image 20230620093049.png]]
+- we can store those in variables 
+- ![[Pasted image 20230620093118.png]]
+- after that we can manipulate it.
+- ![[Pasted image 20230620093150.png]]
+- ![[Pasted image 20230620093156.png]]
+- ![[Pasted image 20230620093230.png]]
+- we can use query selecter  to specifi whole document
+- ![[Pasted image 20230620093328.png]]
+- ![[Pasted image 20230620093353.png]]
+- this code simulate a mouse click
+- ![[Pasted image 20230620093409.png]]
+- ![[Pasted image 20230620093451.png]]
+- ![[Pasted image 20230620093506.png]]
+- ![[Pasted image 20230620093531.png]]
+- ![[Pasted image 20230620093755.png]]
+- 

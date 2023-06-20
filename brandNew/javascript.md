@@ -1,0 +1,17 @@
+- why we insert java script at the end of our html file and css at the begining?
+- ![[Pasted image 20230620091226.png]]
+- if we do like above first it will render normal html.
+- then script load
+- ![[Pasted image 20230620091301.png]]
+- after click the ok it changes the color to red
+- ![[Pasted image 20230620091320.png]]
+- if we insert javascript file at the begining at it uses some html tag that haven't started yet it will fail. thats why we insert it at the begining.
+- it works this way
+- ![[Pasted image 20230620091515.png]]
+- ![[Pasted image 20230620091525.png]]
+- but if we move it to head 
+- ![[Pasted image 20230620091556.png]]
+- ![[Pasted image 20230620091606.png]]
+- we get an error 
+- ![[Pasted image 20230620091629.png]]
+- java script is little slow to run. so it will load your contents first before running javascript. that way we can reduce the waiting time
