@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2aa56ab0028ffcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document-Object-Module(DOM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "job",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css-box-model.md",
+                "file": "Document-Object-Module(DOM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css-box-model.md",
+                "file": "Document-Object-Module(DOM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css-box-model.md"
+                "file": "Document-Object-Module(DOM).md"
               }
             }
           }
@@ -167,20 +180,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "668ecf03e3345cde",
+  "active": "b2aa56ab0028ffcf",
   "lastOpenFiles": [
+    "attach/Pasted image 20230620093531.png",
+    "attach/Pasted image 20230620093506.png",
+    "attach/Pasted image 20230620093451.png",
+    "attach/Pasted image 20230620093409.png",
+    "attach/Pasted image 20230620093353.png",
+    "attach/Pasted image 20230620093328.png",
+    "attach/Pasted image 20230620093230.png",
+    "attach/Pasted image 20230620093156.png",
+    "attach/Pasted image 20230620093150.png",
+    "attach/Pasted image 20230620093118.png",
+    "attach/Pasted image 20230620093049.png",
+    "javascript.md",
+    "Document-Object-Module(DOM).md",
+    "html-table.md",
+    "markup-languages.md",
+    "css-display-property.md",
     "css-box-model.md",
+    "JOBS.md",
     "div.md",
-    "attach/Pasted image 20230618111748.png",
-    "attach/Pasted image 20230618111656.png",
-    "attach/Pasted image 20230618111555.png",
-    "attach/Pasted image 20230618111351.png",
-    "attach/Pasted image 20230618111153.png",
-    "attach/Pasted image 20230618110903.png",
-    "attach/Pasted image 20230618110811.png",
-    "attach/Pasted image 20230618110528.png",
-    "attach/Pasted image 20230618110413.png",
-    "attach/Pasted image 20230618110324.png",
     "colorhunt.md",
     "Pesticide-addon.md",
     "Snippets.md",
@@ -197,15 +217,9 @@
     "Alias-for-app-image.md",
     "attach/HowtoImportGoogleFontsintoYourWebsite_PDF_2023-06-15074258.968018.pdf",
     "live server.md",
-    "JOBS.md",
     "devops.md",
     "loku aiya.md",
-    "Big O Notation.md",
     "attach",
-    "Untitled.canvas",
-    "ClickWorkers.md",
-    "Test Cases.md",
-    "code explanation.md",
-    "Date.md"
+    "Untitled.canvas"
   ]
 }
