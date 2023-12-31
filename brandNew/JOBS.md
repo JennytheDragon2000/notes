@@ -4,14 +4,21 @@
 	-   Spark, Hadoop, Docker is a big plus.
 	-   Jenkins, Git, machine learning algorithms, statistics, distributed/parallel systems.
 	-   cloud (AWS,GCP,Azure).
-
+https://youtu.be/asEesjv0kTs
 - codify
 	- ![[Pasted image 20230614071210.png]]
 	- 
 
-
 - RootCode
+	- ![[Pasted image 20230626130939.png]]
+	- ![[Pasted image 20230626131028.png]]
+	- ![[Pasted image 20230626131131.png]]
+	- DevOps
+		- ![[Pasted image 20230626132043.png]]
+		- 
 - Axiata Digital Labs
+	- ![[Pasted image 20230626132400.png]]
+	- has lots of jobs
 - WSO2
 - Information System Associates
 - Sysco LABS Technologies (Pvt) Ltd
@@ -28,7 +35,14 @@
 - Bistec Global Services
 - OREL IT PVT LTD
 - Zone24x7
+	- .Net
+	- React
 - IFS
+	- Software Engineer
+		- ![[Pasted image 20230626131712.png]]
+	- QA
+		- ![[Pasted image 20230626131820.png]]
+		- 
 - London Stock Exchange Group
 - IronOne Technologies
 - Cambio Software Engineering
@@ -58,7 +72,6 @@
 	 - ![[Pasted image 20230607152526.png]]
 	 - 
 
-
 - linear squared
 	- ![[Pasted image 20230607153354.png]]
 	- ![[Pasted image 20230607153455.png]]
@@ -71,8 +84,7 @@
 - FashionMarket
 - ThinkCube
 - Epic Lanka
-- N-able
-- Linear Squared
+- N-able 
 - Hutchison
 - Inova ItSys
 - Pan Asia Bank
@@ -81,6 +93,10 @@
 - 99X Technology
 
 - GT nexus
+- lseg
+	- full stack developer
+	-  ![[Pasted image 20230626123657.png]]
+	- 
 
 
 
@@ -101,3 +117,7 @@
 	1. Godak un big 0 notation eka Danne na. Code ekaka time complexity flat karanna Danne na. Leetcode nikamata wath log wela na.  
   
 	1. Lokuma Aula un Danne na kiyala unta therenne na. Lankawe resources adu nisa Enna Enna low quality engineersla witharai industry ekata enne. Eka sahenna aul.
+
+- villvay sri lanka
+	- ![[Pasted image 20230626190919.png]]
+	- 

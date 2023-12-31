@@ -4,47 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "b715d2ea30c4a146",
+        "id": "5d18395b0e9cb9be",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd75e603c340df0",
+            "id": "8fd6dd1dfd3fbc1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "div.md",
+                "file": "JOBS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "668ecf03e3345cde",
+            "id": "f21d528e944086f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css-box-model.md",
+                "file": "JOBS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2aa56ab0028ffcf",
+            "id": "424ed8860734287d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document-Object-Module(DOM).md",
+                "file": "Git add.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e815aa73eaf3cebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ea9d28b981cec3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080b5bfda2a3cc60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Document-Object-Module(DOM).md",
+                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Document-Object-Module(DOM).md",
+                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +194,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Document-Object-Module(DOM).md"
+                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md"
+              }
+            }
+          },
+          {
+            "id": "05009eee08f3fe87",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -180,45 +227,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2aa56ab0028ffcf",
+  "active": "080b5bfda2a3cc60",
   "lastOpenFiles": [
-    "attach/Pasted image 20230620093755.png",
-    "attach/Pasted image 20230620093531.png",
-    "attach/Pasted image 20230620093506.png",
-    "attach/Pasted image 20230620093451.png",
-    "attach/Pasted image 20230620093409.png",
-    "attach/Pasted image 20230620093353.png",
-    "attach/Pasted image 20230620093328.png",
-    "attach/Pasted image 20230620093230.png",
-    "attach/Pasted image 20230620093156.png",
-    "attach/Pasted image 20230620093150.png",
-    "attach/Pasted image 20230620093118.png",
+    "DevOps/Artifact Repository Manager with Nexus.md",
+    "attach/Pasted image 20231231213324.png",
+    "attach/Pasted image 20231231213132.png",
+    "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
+    "DevOps",
+    "attach/Pasted image 20231231204729.png",
+    "attach/Pasted image 20231231204717.png",
+    "attach/Pasted image 20231231204633.png",
+    "attach/Pasted image 20231231204441.png",
+    "attach/Pasted image 20231231204342.png",
+    "attach/Pasted image 20231231204314.png",
+    "attach/Pasted image 20231231204000.png",
+    "attach/Pasted image 20231231203937.png",
+    "React.md",
+    "Pesticide-addon.md",
+    "live server.md",
+    "loku aiya.md",
     "javascript.md",
-    "Document-Object-Module(DOM).md",
     "html-table.md",
-    "markup-languages.md",
+    "JOBS.md",
+    "Git add.md",
+    "Connect Hard Drive to linux.md",
+    "new.md",
+    "Git & GitHub.md",
+    "DNS.md",
+    "20 things.md",
+    "Namcook analytics.md",
+    "attach/HowtoImportGoogleFontsintoYourWebsite_PDF_2023-06-15074258.968018.pdf",
+    "Alias-for-app-image.md",
+    "colorhunt.md",
+    "Add Event Listeners.md",
     "css-display-property.md",
     "css-box-model.md",
-    "JOBS.md",
     "div.md",
-    "colorhunt.md",
-    "Pesticide-addon.md",
+    "Document-Object-Module(DOM).md",
+    "markup-languages.md",
     "Snippets.md",
-    "Ultisnip.md",
-    "favicon.md",
-    "Git & GitHub.md",
-    "React.md",
-    "Webdev.md",
-    "emmet.md",
-    "box-sizing.md",
-    "margin.md",
-    "display-flex.md",
-    "get-font.md",
-    "Alias-for-app-image.md",
-    "attach/HowtoImportGoogleFontsintoYourWebsite_PDF_2023-06-15074258.968018.pdf",
-    "live server.md",
-    "devops.md",
-    "loku aiya.md",
     "attach",
     "Untitled.canvas"
   ]
