@@ -1,0 +1,21 @@
+- by setting display into flex, it helps us to center everything 
+- ![[Pasted image 20230615132217.png]]
+- ![[Pasted image 20230615132252.png]]
+- in the flex box when we add more elements
+- ![[Pasted image 20230615132315.png]]
+- it put those elements in a row
+- by setting flex direction we can change this to vertical
+- ![[Pasted image 20230615132409.png]]
+- we can align items to center
+- when the flex box is a column align items align it horizontally. 
+- if it is a row it align them vertically
+- ![[Pasted image 20230615132454.png]]
+- justify center will center the flexbox
+- ![[Pasted image 20230615132630.png]]
+- but here it didnt' work
+- it's cuz our flexbox still doesn't have any height
+- ![[Pasted image 20230615132718.png]]
+- vh means viewport height
+- overflow hidden to to hide the scrollbars
+- ![[Pasted image 20230615132757.png]]
+- 

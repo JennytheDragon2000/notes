@@ -1,0 +1,107 @@
+- ![[Pasted image 20230620092053.png]]
+- ![[Pasted image 20230620092145.png]]
+- ![[Pasted image 20230620092157.png]]
+- ![[Pasted image 20230620092247.png]]
+- ![[Pasted image 20230620092915.png]]
+-  ![[Pasted image 20230620092950.png]]
+- ![[Pasted image 20230620093010.png]]
+- ![[Pasted image 20230620093025.png]]
+- ![[Pasted image 20230620093049.png]]
+- we can store those in variables 
+- ![[Pasted image 20230620093118.png]]
+- after that we can manipulate it.
+- ![[Pasted image 20230620093150.png]]
+- ![[Pasted image 20230620093156.png]]
+- ![[Pasted image 20230620093230.png]]
+- we can use query selecter  to specifi whole document
+- ![[Pasted image 20230620093328.png]]
+- ![[Pasted image 20230620093353.png]]
+- this code simulate a mouse click
+- ![[Pasted image 20230620093409.png]]
+- ![[Pasted image 20230620093451.png]]
+- ![[Pasted image 20230620093506.png]]
+- ![[Pasted image 20230620093531.png]]
+- ![[Pasted image 20230620093755.png]]
+- there are multiple way to get items from the dom.
+- ![[Pasted image 20230620095137.png]]
+- ![[Pasted image 20230620095146.png]]
+- ![[Pasted image 20230620095203.png]]
+- ![[Pasted image 20230620101751.png]]
+- ![[Pasted image 20230620101821.png]]
+- we have to specify the index , cuz it returns an array
+## select a single element
+1. get elements by id
+- ![[Pasted image 20230620102029.png]]
+2. query selector.
+	- here we can use selectors 
+	- ![[Pasted image 20230620102507.png]]
+	- what are selectors?
+		- all the things inside css file are selectors
+		- ![[Pasted image 20230620102704.png]]
+		- the part we specify before curly bracs `{}` 
+		- ![[Pasted image 20230620102838.png]]
+		- we can get elements by id, class, element anything...
+		- we can combine selectors to get a specific query element.
+		- ![[Pasted image 20230620103130.png]]
+		- here we have two links. how can we select one of them by combining selectors
+		- ![[Pasted image 20230620103214.png]]
+		- we we are combining selectors things that occur in the same html tag line, we don't use spaces for them
+		- ![[Pasted image 20230620103418.png]]
+		- ![[Pasted image 20230620103444.png]]
+		- ![[Pasted image 20230620103505.png]]
+		- ![[Pasted image 20230620103555.png]]
+		- what if your query selector selects more than one item
+		- ![[Pasted image 20230620103750.png]]
+		- ![[Pasted image 20230620103754.png]]
+		- ![[Pasted image 20230620103811.png]]
+		- you only get the first item.
+		- what if you want to get all the items?
+		- ![[Pasted image 20230620103844.png]]
+		- then you have to use querySelectorAll
+		- ![[Pasted image 20230620103904.png]]
+		- and from that if you want to get a specific item then you have to use an index.
+		- ![[Pasted image 20230620104147.png]]
+		- ![[Pasted image 20230620104206.png]]
+		- since javascript use camel case property name's are written not like css
+		- ![[Pasted image 20230620104522.png]]
+		- it is writtn by using camelCase
+		- u can find all the property names by going to this website
+		- search html dom style object
+		- ![[Pasted image 20230620104613.png]]
+		- ![[Pasted image 20230620104744.png]]
+		- ![[Pasted image 20230620114654.png]]
+## Separation of Concerns
+
+- Even though we can change all the things in html using javascript. it is a best practice to keep all your code inside css files. And change the classes of each element using javascript
+- we can use classlist method to get all the classes 
+- ![[Pasted image 20230620115336.png]]
+- ![[Pasted image 20230620115401.png]]
+- ![[Pasted image 20230620115421.png]]
+- ![[Pasted image 20230620115437.png]]
+- ![[Pasted image 20230620115521.png]]
+- ![[Pasted image 20230620115534.png]]
+- ![[Pasted image 20230620115631.png]]
+- ![[Pasted image 20230620115643.png]]
+- ![[Pasted image 20230620115645.png]]
+## Text Manipulation and Text Content Property
+- inner html gives the context inside the tag
+-  ![[Pasted image 20230620115925.png]]
+- ![[Pasted image 20230620115945.png]]
+- ![[Pasted image 20230620115953.png]]
+-   ![[Pasted image 20230620120005.png]]
+- ![[Pasted image 20230620120102.png]]
+- so we can use this to even change html
+- ![[Pasted image 20230620120156.png]]
+-  ![[Pasted image 20230620120208.png]]
+- but here we have to use a string because the value has to be a string. otherwise it will think it is javascript
+### Manipulating attributes of each element
+- attributes are all the things thats get colored in orange
+- ![[Pasted image 20230620124627.png]]
+- how to view all the attributes?
+  ![[Pasted image 20230620124725.png]]
+- how to get a attribute?
+- ![[Pasted image 20230620124801.png]]
+- how to set a atribute
+- ![[Pasted image 20230620124833.png]]
+
+## [[Add Event Listeners]]

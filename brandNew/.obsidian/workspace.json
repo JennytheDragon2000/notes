@@ -8,79 +8,106 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fd6dd1dfd3fbc1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21d528e944086f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424ed8860734287d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git add.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e815aa73eaf3cebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ea9d28b981cec3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "080b5bfda2a3cc60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
+                "file": "Flashcards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "985a1b931bee4a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Connect Hard Drive to linux.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f22300666227e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xorg get window coordinates.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "41bab015301eea2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xorg get window coordinates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ab48efd0bab233f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Test.canvas",
+                "viewState": {
+                  "x": 10,
+                  "y": 290,
+                  "zoom": -0.08829952574916503
+                }
+              }
+            }
+          },
+          {
+            "id": "726fe56ca76170c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best_Programming_Language/Namcook analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65d145246fe0b557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework\n/framework\n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c95fd0726769f8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nexus_UI\n/Nexus_UI\n.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,12 +136,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#q",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -154,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
+                "file": "Nexus_UI\n/Nexus_UI\n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
+                "file": "Nexus_UI\n/Nexus_UI\n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Run React Java Springboot Application on Digital Ocean Server.md"
+                "file": "Nexus_UI\n/Nexus_UI\n.md"
               }
             }
           },
@@ -209,8 +236,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "4a423fb0c88a4e66",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,49 +260,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "080b5bfda2a3cc60",
+  "active": "c95fd0726769f8a9",
   "lastOpenFiles": [
+    "Nexus_UI\n/attach/202401021356.png",
+    "Nexus_UI\n/attach/202401021353.png",
+    "Nexus_UI\n/attach/202401021352.png",
+    "Nexus_UI\n/attach/202401021350.png",
+    "Nexus_UI\n/attach/202401021348.png",
+    "Nexus_UI\n/attach/202401021347.png",
+    "Nexus_UI\n/attach/202401021346.png",
+    "Nexus_UI\n/attach/202401021345.png",
+    "Nexus_UI\n/attach/202401021344.png",
+    "Nexus_UI\n/attach/202401021334.png",
+    "Nexus_UI\n/attach/202401021331.png",
+    "Nexus_Install/Nexus_Install.md",
+    "Nexus_UI\n/attach",
+    "Nexus_UI\n/Nexus_UI\n.md",
+    "Nexus_UI\n",
+    "find command.md",
+    "Nexus_Install/attach",
+    "Nexus_Install",
+    "Artifact_Repository_Manager\n/Artifact_Repository_Manager\n.md",
+    "Artifact_Repository_Manager\n/attach",
+    "Artifact_Repository_Manager\n",
+    "artifact\n/artifact\n.md",
+    "artifact\n/attach",
+    "artifact\n",
+    "framework\n/framework\n.md",
     "DevOps/Artifact Repository Manager with Nexus.md",
-    "attach/Pasted image 20231231213324.png",
-    "attach/Pasted image 20231231213132.png",
+    "test\n/images.md",
+    "framework\n/attach",
+    "framework\n",
+    "Best_Programming_Language/Best Programming language.canvas",
+    "test/images.md",
+    "Callouts.md",
+    "Flashcards.md",
+    "Best_Programming_Language/Language trends.md",
+    "Best_Programming_Language/Namcook analytics.md",
+    "fzf - fuzzy finder.md",
+    "Xorg Get currently active window id.md",
+    "Xorg get window coordinates.md",
+    "Test.canvas",
+    "Quick gui builders.md",
+    "flameshot.canvas",
     "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
-    "DevOps",
-    "attach/Pasted image 20231231204729.png",
-    "attach/Pasted image 20231231204717.png",
-    "attach/Pasted image 20231231204633.png",
-    "attach/Pasted image 20231231204441.png",
-    "attach/Pasted image 20231231204342.png",
-    "attach/Pasted image 20231231204314.png",
-    "attach/Pasted image 20231231204000.png",
-    "attach/Pasted image 20231231203937.png",
-    "React.md",
-    "Pesticide-addon.md",
-    "live server.md",
-    "loku aiya.md",
-    "javascript.md",
-    "html-table.md",
-    "JOBS.md",
-    "Git add.md",
-    "Connect Hard Drive to linux.md",
-    "new.md",
-    "Git & GitHub.md",
-    "DNS.md",
-    "20 things.md",
-    "Namcook analytics.md",
-    "attach/HowtoImportGoogleFontsintoYourWebsite_PDF_2023-06-15074258.968018.pdf",
-    "Alias-for-app-image.md",
-    "colorhunt.md",
-    "Add Event Listeners.md",
-    "css-display-property.md",
-    "css-box-model.md",
-    "div.md",
-    "Document-Object-Module(DOM).md",
-    "markup-languages.md",
-    "Snippets.md",
-    "attach",
-    "Untitled.canvas"
+    "flameshot.md",
+    "start flameshot with an excisting image.md",
+    "Linux/Connect Hard Drive to linux.md",
+    "Web_Development/markup-languages.md",
+    "Web_Development/React.md",
+    "DevOps/devops.md",
+    "ThingsToKnow/20 things.md"
   ]
 }

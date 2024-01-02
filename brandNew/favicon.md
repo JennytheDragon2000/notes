@@ -1,8 +1,0 @@
-- It is the image that show next your browser title
--  you can make your own favicon by going to [this website](https://www.favicon.cc/)
-- in there they show you what it would look like in your website
-	- ![[Pasted image 20230617214200.png]]
-- after that got to your .css file and add this tag
-- ![[Pasted image 20230617214307.png]]
-- if it is not showing on your browser then modify it like this
-- ![[Pasted image 20230617214456.png]]

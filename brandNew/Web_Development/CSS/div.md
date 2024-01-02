@@ -1,0 +1,57 @@
+- div tags doesn't do anything without css
+- ![[Pasted image 20230618102808.png]]
+- Right-click on it and try to inspect
+- ![[Pasted image 20230618103030.png]]
+- ![[Pasted image 20230618102258.png]]
+- in order to something with that div we have to use  css with it .
+- ![[Pasted image 20230618103507.png]]
+- after turning off the [[Pesticide-addon]]  we can get the actual html.
+- ![[Pasted image 20230618103556.png]]
+- ![[Pasted image 20230618102515.png]]
+- anything goes inside goes here wouldn't modify our code. but it helps us to experiment with our html without coding.
+- now lets experiment with it.
+- ![[Pasted image 20230618103701.png]]
+- here even though we change the background color of div. it didn't change the color.
+- why it happened?
+- it is because, currently it doesn't have any height.
+- ![[Pasted image 20230618103912.png]]
+- But after we give `100px` height to it. it did change
+- ![[Pasted image 20230618104037.png]]
+- divs are only there to structure and divide your content.
+- if we referesh the site again, all the changes that we made will dissapear.
+- ![[Pasted image 20230618104434.png]]
+- div is a content division element. it allows us to divide the content into different containers/boxes.
+- - ![[Pasted image 20230618104854.png]]
+- if we move our `h1` and `p` elements inside into div. now it gets a height.
+- ![[Pasted image 20230618104929.png]]
+- Now we are going to give a color to `div` . so goto [[colorhunt]] and choose a color.
+- ![[Pasted image 20230618105701.png]]
+- ![[Pasted image 20230618105717.png]]
+- where the is these gaps ?
+- ![[Pasted image 20230618105842.png]]
+- it's because browser also add some default css into it.
+- ![[Pasted image 20230618110106.png]]
+- if we double click on that margin and change it. it will get rid from that browser
+   default css
+- ![[Pasted image 20230618110324.png]]
+- ![[Pasted image 20230618110413.png]]
+- let's change the top margin also
+- ![[Pasted image 20230618110528.png]]
+- but it didn't get rid from that top layer. why is that?
+- it's because there are default rules for our `h1` also.
+- ![[Pasted image 20230618110811.png]]
+- as u can see there is a margin for h1 also.
+- ![[Pasted image 20230618110903.png]]
+- when we hover over `h1` it shows the entire space that it is taking up
+- ![[Pasted image 20230618111153.png]]
+- these margins meaning like above
+- if we go and change that top margin to 0. now it gets rid from that upper broundry
+- ![[Pasted image 20230618111351.png]]
+- when we change those. you can see what it changes inside the browser.
+- ![[Pasted image 20230618111555.png]]
+- this is the one we should put inside our css file inorder to make this change permenent.
+- ![[Pasted image 20230618111656.png]]
+- ![[Pasted image 20230618111748.png]]
+- after we write these changes to css file even after we refresh the browser it stays the same.
+- if we use `margin` to change it change all 4 margins.
+-  These margin, padding, border are all relevent to [[css-box-model]]

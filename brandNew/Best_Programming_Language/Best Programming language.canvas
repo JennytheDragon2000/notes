@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"63f8f9a012294414","type":"link","url":"https://tjpalmer.github.io/languish/#y=mean&weights=issues%3D1%26pulls%3D0%26stars%3D1%26soQuestions%3D1&names=python%2Cjavascript%2Ctypescript%2Cjava%2Cgo%2Cmarkdown%2Cc%23%2Cc%2B%2B%2Chtml%2Crust","x":-2360,"y":-1640,"width":1300,"height":780},
+		{"id":"0a140a1b2e6d572d","type":"file","file":"Best_Programming_Language/Namcook analytics.md","x":-920,"y":-1640,"width":400,"height":780},
+		{"id":"29d3c0eaed057a64","type":"link","url":"https://survey.stackoverflow.co/2023/#technology-admired-and-desired","x":-2240,"y":-820,"width":956,"height":554}
+	],
+	"edges":[]
+}

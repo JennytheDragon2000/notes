@@ -1,3 +1,0 @@
-- [Github](https://github.com/sirver/ultisnips)
--  
-- 

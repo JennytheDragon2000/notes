@@ -1,0 +1,4 @@
+- by  setting it to border box
+- ![[Pasted image 20230615131717.png]]
+- if add any border or padding to an element it doesn't actually effect the width of it.
+- 

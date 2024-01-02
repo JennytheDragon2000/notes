@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"83e065129186450b","x":100,"y":60,"width":400,"height":225,"type":"file","file":"attach/Pasted image 20240101143301.png"},
+		{"id":"55c6e93c36be7603","x":-480,"y":120,"width":400,"height":400,"type":"file","file":"Flashcards.md"}
+	],
+	"edges":[
+		{"id":"d056b98ad2e6318b","fromNode":"55c6e93c36be7603","fromSide":"right","toNode":"83e065129186450b","toSide":"left"}
+	]
+}
