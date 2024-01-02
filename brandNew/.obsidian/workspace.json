@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus_UI\n/Nexus_UI\n.md",
+                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nexus_UI\n/Nexus_UI\n.md",
+                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nexus_UI\n/Nexus_UI\n.md",
+                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nexus_UI\n/Nexus_UI\n.md"
+                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md"
               }
             }
           },
@@ -266,20 +266,23 @@
   },
   "active": "c95fd0726769f8a9",
   "lastOpenFiles": [
-    "Nexus_UI\n/attach/202401021356.png",
-    "Nexus_UI\n/attach/202401021353.png",
-    "Nexus_UI\n/attach/202401021352.png",
-    "Nexus_UI\n/attach/202401021350.png",
-    "Nexus_UI\n/attach/202401021348.png",
-    "Nexus_UI\n/attach/202401021347.png",
-    "Nexus_UI\n/attach/202401021346.png",
-    "Nexus_UI\n/attach/202401021345.png",
-    "Nexus_UI\n/attach/202401021344.png",
-    "Nexus_UI\n/attach/202401021334.png",
-    "Nexus_UI\n/attach/202401021331.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021915.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021912.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021911_1.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021911.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021910.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021907.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021906.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021905.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021904_1.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021904.png",
+    "Upload_Jar_Files_to_Nexus\n/attach/202401021903.png",
+    "Nexus_UI\n/Nexus_UI\n.md",
+    "Upload_Jar_Files_to_Nexus\n/attach",
+    "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
+    "Upload_Jar_Files_to_Nexus\n",
     "Nexus_Install/Nexus_Install.md",
     "Nexus_UI\n/attach",
-    "Nexus_UI\n/Nexus_UI\n.md",
     "Nexus_UI\n",
     "find command.md",
     "Nexus_Install/attach",
@@ -293,8 +296,6 @@
     "framework\n/framework\n.md",
     "DevOps/Artifact Repository Manager with Nexus.md",
     "test\n/images.md",
-    "framework\n/attach",
-    "framework\n",
     "Best_Programming_Language/Best Programming language.canvas",
     "test/images.md",
     "Callouts.md",
@@ -313,7 +314,6 @@
     "Linux/Connect Hard Drive to linux.md",
     "Web_Development/markup-languages.md",
     "Web_Development/React.md",
-    "DevOps/devops.md",
-    "ThingsToKnow/20 things.md"
+    "DevOps/devops.md"
   ]
 }
