@@ -4,110 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5d18395b0e9cb9be",
+        "id": "5ab7758092566485",
         "type": "tabs",
         "children": [
           {
-            "id": "080b5bfda2a3cc60",
+            "id": "851a3dbd6db5f26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985a1b931bee4a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Connect Hard Drive to linux.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f22300666227e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xorg get window coordinates.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41bab015301eea2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xorg get window coordinates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ab48efd0bab233f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Test.canvas",
-                "viewState": {
-                  "x": 10,
-                  "y": 290,
-                  "zoom": -0.08829952574916503
-                }
-              }
-            }
-          },
-          {
-            "id": "726fe56ca76170c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best_Programming_Language/Namcook analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65d145246fe0b557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "framework\n/framework\n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c95fd0726769f8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
+                "file": "Java_swing_start\n/Java_swing_start\n.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
+                "file": "Java_swing_start\n/Java_swing_start\n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
+                "file": "Java_swing_start\n/Java_swing_start\n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md"
+                "file": "Java_swing_start\n/Java_swing_start\n.md"
               }
             }
           },
@@ -261,59 +173,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c95fd0726769f8a9",
+  "active": "851a3dbd6db5f26e",
   "lastOpenFiles": [
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021915.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021912.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021911_1.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021911.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021910.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021907.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021906.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021905.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021904_1.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021904.png",
-    "Upload_Jar_Files_to_Nexus\n/attach/202401021903.png",
-    "Nexus_UI\n/Nexus_UI\n.md",
-    "Upload_Jar_Files_to_Nexus\n/attach",
-    "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
-    "Upload_Jar_Files_to_Nexus\n",
-    "Nexus_Install/Nexus_Install.md",
-    "Nexus_UI\n/attach",
-    "Nexus_UI\n",
-    "find command.md",
-    "Nexus_Install/attach",
-    "Nexus_Install",
-    "Artifact_Repository_Manager\n/Artifact_Repository_Manager\n.md",
-    "Artifact_Repository_Manager\n/attach",
-    "Artifact_Repository_Manager\n",
-    "artifact\n/artifact\n.md",
-    "artifact\n/attach",
-    "artifact\n",
-    "framework\n/framework\n.md",
-    "DevOps/Artifact Repository Manager with Nexus.md",
-    "test\n/images.md",
+    "Java_swing_start\n/attach/202401062313.png",
+    "Java_swing_start\n/attach/202401062312.png",
+    "Java_swing_start\n/attach/202401062310_1.png",
+    "Java_swing_start\n/attach/202401062310.png",
+    "Java_swing_start\n/attach/202401062309_1.png",
+    "Java_swing_start\n/attach/202401062309.png",
+    "Java_swing_start\n/attach/202401062307.png",
+    "Java_swing_start\n/attach/202401062306.png",
+    "Java_swing_start\n/attach/202401062304.png",
+    "Java_swing_start\n/attach/202401062302.png",
+    "Java_swing_start\n/attach/202401062300_1.png",
+    "git_branching\n/git_branching edited.md",
+    "Java_swing_start\n/Java_swing_start\n.md",
+    "Java_swing_start\n/attach",
+    "Java_swing_start\n",
+    "git_branching\n/git_branching\n.md",
     "Best_Programming_Language/Best Programming language.canvas",
-    "test/images.md",
-    "Callouts.md",
+    "git_branching\n/attach",
+    "git_branching\n",
+    "github_test\n/github_test\n.md",
+    "Excalidraw/Drawing 2024-01-04 21.52.58.excalidraw.md",
+    "Excalidraw",
+    "github_test\n/attach",
+    "github_test\n",
     "Flashcards.md",
-    "Best_Programming_Language/Language trends.md",
-    "Best_Programming_Language/Namcook analytics.md",
-    "fzf - fuzzy finder.md",
-    "Xorg Get currently active window id.md",
+    "Linux/Connect Hard Drive to linux.md",
     "Xorg get window coordinates.md",
     "Test.canvas",
-    "Quick gui builders.md",
-    "flameshot.canvas",
-    "DevOps/Run React Java Springboot Application on Digital Ocean Server.md",
-    "flameshot.md",
-    "start flameshot with an excisting image.md",
-    "Linux/Connect Hard Drive to linux.md",
-    "Web_Development/markup-languages.md",
-    "Web_Development/React.md",
-    "DevOps/devops.md"
+    "Best_Programming_Language/Namcook analytics.md",
+    "framework\n/framework\n.md",
+    "Nexus_API\n/Nexus_API\n.md",
+    "Neural Network.md",
+    "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
+    "Nexus_API\n/attach",
+    "Nexus_API\n",
+    "Nexus_UI\n/Nexus_UI\n.md",
+    "Upload_Jar_Files_to_Nexus\n/attach",
+    "Nexus_Install/Nexus_Install.md",
+    "find command.md",
+    "Artifact_Repository_Manager\n/Artifact_Repository_Manager\n.md",
+    "artifact\n/artifact\n.md",
+    "DevOps/Artifact Repository Manager with Nexus.md",
+    "test\n/images.md",
+    "test/images.md",
+    "Callouts.md",
+    "Best_Programming_Language/Language trends.md",
+    "fzf - fuzzy finder.md",
+    "Xorg Get currently active window id.md",
+    "flameshot.canvas"
   ]
 }
