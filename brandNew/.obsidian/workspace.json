@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java_swing_start\n/Java_swing_start\n.md",
+                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java_swing_start\n/Java_swing_start\n.md",
+                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java_swing_start\n/Java_swing_start\n.md",
+                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java_swing_start\n/Java_swing_start\n.md"
+                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md"
               }
             }
           },
@@ -179,19 +179,23 @@
   },
   "active": "851a3dbd6db5f26e",
   "lastOpenFiles": [
-    "Java_swing_start\n/attach/202401062337.png",
-    "Java_swing_start\n/attach/202401062336_1.png",
-    "Java_swing_start\n/attach/202401062336.png",
-    "Java_swing_start\n/attach/202401062335_1.png",
-    "Java_swing_start\n/attach/202401062335.png",
-    "Java_swing_start\n/attach/202401062332_1.png",
-    "Java_swing_start\n/attach/202401062332.png",
-    "Java_swing_start\n/attach/202401062331.png",
-    "Java_swing_start\n/attach/202401062329.png",
-    "Java_swing_start\n/attach/202401062327.png",
-    "Java_swing_start\n/attach/202401062325.png",
-    "git_branching\n/git_branching edited.md",
+    "java_swing_toolbar\n/attach/202401070802_1.png",
+    "java_swing_toolbar\n/attach/202401070802.png",
+    "java_swing_toolbar\n/attach/202401070801.png",
+    "java_swing_toolbar\n/attach/202401070759_1.png",
+    "java_swing_toolbar\n/attach/202401070759.png",
+    "java_swing_toolbar\n/attach/202401070758_1.png",
+    "java_swing_toolbar\n/attach/202401070758.png",
+    "java_swing_toolbar\n/attach/202401070756.png",
+    "java_swing_toolbar\n/attach/202401070750.png",
+    "java_swing_toolbar\n/attach/202401070745.png",
+    "java_swing_toolbar\n/attach/202401070737.png",
     "Java_swing_start\n/Java_swing_start\n.md",
+    "java_swing_toolbar\n/java_swing_toolbar\n.md",
+    "java_swing_toolbar\n/java_swing_toolbar.md",
+    "java_swing_toolbar\n/attach",
+    "java_swing_toolbar\n",
+    "git_branching\n/git_branching edited.md",
     "Java_swing_start\n/attach",
     "Java_swing_start\n",
     "git_branching\n/git_branching\n.md",
@@ -213,9 +217,7 @@
     "Neural Network.md",
     "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
     "Nexus_API\n/attach",
-    "Nexus_API\n",
     "Nexus_UI\n/Nexus_UI\n.md",
-    "Upload_Jar_Files_to_Nexus\n/attach",
     "Nexus_Install/Nexus_Install.md",
     "find command.md",
     "Artifact_Repository_Manager\n/Artifact_Repository_Manager\n.md",
@@ -225,8 +227,6 @@
     "test/images.md",
     "Callouts.md",
     "Best_Programming_Language/Language trends.md",
-    "fzf - fuzzy finder.md",
-    "Xorg Get currently active window id.md",
     "flameshot.canvas"
   ]
 }
