@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md",
+                "file": "java_swing_grid_bag_layout\n/java_swing_grid_bag_layout\n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82813b8f4a093a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java_Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1acba3f496257c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java_Anonymous_Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md",
+                "file": "java_swing_grid_bag_layout\n/java_swing_grid_bag_layout\n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md",
+                "file": "java_swing_grid_bag_layout\n/java_swing_grid_bag_layout\n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java_swing_toolbar\n/java_swing_toolbar\n.md"
+                "file": "java_swing_grid_bag_layout\n/java_swing_grid_bag_layout\n.md"
               }
             }
           },
@@ -179,34 +203,42 @@
   },
   "active": "851a3dbd6db5f26e",
   "lastOpenFiles": [
-    "java_swing_toolbar\n/attach/202401070802_1.png",
-    "java_swing_toolbar\n/attach/202401070802.png",
-    "java_swing_toolbar\n/attach/202401070801.png",
-    "java_swing_toolbar\n/attach/202401070759_1.png",
-    "java_swing_toolbar\n/attach/202401070759.png",
-    "java_swing_toolbar\n/attach/202401070758_1.png",
-    "java_swing_toolbar\n/attach/202401070758.png",
-    "java_swing_toolbar\n/attach/202401070756.png",
-    "java_swing_toolbar\n/attach/202401070750.png",
-    "java_swing_toolbar\n/attach/202401070745.png",
-    "java_swing_toolbar\n/attach/202401070737.png",
-    "Java_swing_start\n/Java_swing_start\n.md",
+    "java_swing_grid_bag_layout\n/attach/202401071144.png",
+    "java_swing_grid_bag_layout\n/attach/202401071143_1.png",
+    "java_swing_grid_bag_layout\n/attach/202401071143.png",
+    "java_swing_grid_bag_layout\n/attach/202401071141_2.png",
+    "java_swing_grid_bag_layout\n/attach/202401071141_1.png",
+    "java_swing_grid_bag_layout\n/attach/202401071141.png",
+    "java_swing_grid_bag_layout\n/attach/202401071138_1.png",
+    "java_swing_grid_bag_layout\n/attach/202401071138.png",
+    "java_swing_grid_bag_layout\n/attach/202401071137.png",
+    "java_swing_grid_bag_layout\n/attach/202401071136.png",
+    "java_swing_grid_bag_layout\n/attach/202401071135.png",
+    "java_swing_textfields_and_labels\n/java_swing_textfields_and_labels\n.md",
+    "java_swing_grid_bag_layout\n/java_swing_grid_bag_layout\n.md",
+    "java_swing_grid_bag_layout\n/attach",
+    "java_swing_grid_bag_layout\n",
+    "java_swing_borders\n/java_swing_borders\n.md",
+    "java_swing_textfields_and_labels\n/attach",
+    "java_swing_textfields_and_labels\n",
+    "java_swing_sizing_components\n/java_swing_sizing_components\n.md",
+    "java_swing_borders\n/attach",
+    "java_swing_borders\n",
+    "swing_listeners\n/swing_listeners\n.md",
+    "java_swing_sizing_components\n/attach",
+    "java_swing_sizing_components\n",
+    "Java_Interfaces.md",
+    "Java_Anonymous_Classes.md",
     "java_swing_toolbar\n/java_swing_toolbar\n.md",
+    "swing_listeners\n/attach",
+    "swing_listeners\n",
+    "Java_swing_start\n/Java_swing_start\n.md",
     "java_swing_toolbar\n/java_swing_toolbar.md",
-    "java_swing_toolbar\n/attach",
-    "java_swing_toolbar\n",
     "git_branching\n/git_branching edited.md",
-    "Java_swing_start\n/attach",
-    "Java_swing_start\n",
     "git_branching\n/git_branching\n.md",
     "Best_Programming_Language/Best Programming language.canvas",
-    "git_branching\n/attach",
-    "git_branching\n",
     "github_test\n/github_test\n.md",
     "Excalidraw/Drawing 2024-01-04 21.52.58.excalidraw.md",
-    "Excalidraw",
-    "github_test\n/attach",
-    "github_test\n",
     "Flashcards.md",
     "Linux/Connect Hard Drive to linux.md",
     "Xorg get window coordinates.md",
@@ -216,17 +248,9 @@
     "Nexus_API\n/Nexus_API\n.md",
     "Neural Network.md",
     "Upload_Jar_Files_to_Nexus\n/Upload_Jar_Files_to_Nexus\n.md",
-    "Nexus_API\n/attach",
     "Nexus_UI\n/Nexus_UI\n.md",
     "Nexus_Install/Nexus_Install.md",
     "find command.md",
-    "Artifact_Repository_Manager\n/Artifact_Repository_Manager\n.md",
-    "artifact\n/artifact\n.md",
-    "DevOps/Artifact Repository Manager with Nexus.md",
-    "test\n/images.md",
-    "test/images.md",
-    "Callouts.md",
-    "Best_Programming_Language/Language trends.md",
     "flameshot.canvas"
   ]
 }
